@@ -1,4 +1,8 @@
-### 欢迎你来到驿站，这位开源侠客！ 👋
+### 欢迎你来到【BayOSS 湾区开源驿站】，这位开源侠客！ 👋
+
+🌈 在开源世界为来来往往的开源人提供一个小小驿站！ 
+
+🚀 Provide a mini platform for open source people to come and go in the open source world!
 
 <!--
 
